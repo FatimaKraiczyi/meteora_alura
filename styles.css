@@ -1,0 +1,17 @@
+.small-text {
+  font-size: 13px;
+}
+
+.div-facilities {
+  width: 325px;
+}
+
+.div-news {
+  width: 325px;
+}
+
+@media (min-width: 768px) {
+  .div-news {
+    width: 696px;
+  }
+}

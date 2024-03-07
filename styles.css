@@ -15,3 +15,21 @@
     width: 696px;
   }
 }
+
+.verde-limao {
+  color: #daff01;
+}
+
+.btn.botao-lilas {
+  background-color: #9353ff !important;
+}
+
+.posicao {
+  top: 60%;
+}
+
+@media (max-width: 767px) {
+  .posicao {
+    top: 60%;
+  }
+}
